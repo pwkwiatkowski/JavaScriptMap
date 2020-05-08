@@ -1,5 +1,4 @@
 # JavaScriptMap
-> Here goes your awesome project description!
 > This is my school project for HTML and JavaScript classes
 
 ## Table of contents
@@ -13,7 +12,6 @@
 * [Contact](#contact)
 
 ## General info
-Add more general information about project. What the purpose of the project is? Motivation?
 The purpose of this project is indicate some points and mark some areas on the map, using HTML, JS and Leaflet library.
 
 ## Screenshots
@@ -42,7 +40,6 @@ To-do list:
 * Wow improvement to be done 2
 
 ## Status
-Project is: _in progress_, _finished_, _no longer continue_ and why?
 Project is: _finished_ because I send it to my lecturer ;-)?
 
 ## Inspiration
