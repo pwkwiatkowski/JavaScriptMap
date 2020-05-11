@@ -16,7 +16,7 @@ The purpose of this project is indicate some points and mark some areas on the m
 * Leaflet library - version 1.6.0
 
 ## Status
-Project is: _finished_ because I send it to my lecturer ;-)?
+Project is: _finished_ because I send it to my lecturer ;-)
 
 ## Inspiration
 Add here credits. Project inspired by..., based on...
